@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://garrenlee.github.io/Garren-s-Website/sitemap.xml

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Garren&#x27;s Website</title>
+    <link href="https://garrenlee.github.io/Garren-s-Website/feed.xml" rel="self" />
+    <link href="https://garrenlee.github.io/Garren-s-Website" />
+    <updated>2024-01-24T14:26:17-08:00</updated>
+    <author>
+        <name>gl</name>
+    </author>
+    <id>https://garrenlee.github.io/Garren-s-Website</id>
+
+    <entry>
+        <title>Garren&#x27;s Website</title>
+        <author>
+            <name>gl</name>
+        </author>
+        <link href="https://garrenlee.github.io/Garren-s-Website/garrens-website.html"/>
+        <id>https://garrenlee.github.io/Garren-s-Website/garrens-website.html</id>
+
+        <updated>2024-01-24T14:26:17-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full"><img  src="https://garrenlee.github.io/Garren-s-Website/media/posts/1/IMG_4887-2.HEIC" alt="" width="NaN" height="NaN"></figure><figure class="post__image"><img loading="lazy"  src="https://garrenlee.github.io/Garren-s-Website/media/posts/1/IMG_4887.HEIC" alt="" width="NaN" height="NaN"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://garrenlee.github.io/Garren-s-Website/media/posts/1/gallery/IMG_4887.png" data-size="3024x4032"><img loading="lazy" src="https://garrenlee.github.io/Garren-s-Website/media/posts/1/gallery/IMG_4887-thumbnail.png" alt="New York" width="720" height="960"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

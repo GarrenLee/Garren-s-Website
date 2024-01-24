@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Garren&#x27;s Website",
+    "description": "",
+    "home_page_url": "https://garrenlee.github.io/Garren-s-Website",
+    "feed_url": "https://garrenlee.github.io/Garren-s-Website/feed.json",
+    "user_comment": "",
+    "icon": "https://garrenlee.github.io/Garren-s-Website/media/website/IMG_4887.png",
+    "author": {
+        "name": "gl"
+    },
+    "items": [
+        {
+            "id": "https://garrenlee.github.io/Garren-s-Website/garrens-website.html",
+            "url": "https://garrenlee.github.io/Garren-s-Website/garrens-website.html",
+            "title": "Garren&#x27;s Website",
+            "content_html": "<figure class=\"post__image post__image--full\"><img  src=\"https://garrenlee.github.io/Garren-s-Website/media/posts/1/IMG_4887-2.HEIC\" alt=\"\" width=\"NaN\" height=\"NaN\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://garrenlee.github.io/Garren-s-Website/media/posts/1/IMG_4887.HEIC\" alt=\"\" width=\"NaN\" height=\"NaN\"></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://garrenlee.github.io/Garren-s-Website/media/posts/1/gallery/IMG_4887.png\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://garrenlee.github.io/Garren-s-Website/media/posts/1/gallery/IMG_4887-thumbnail.png\" alt=\"New York\" width=\"720\" height=\"960\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "gl"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T14:26:17-08:00",
+            "date_modified": "2024-01-24T14:26:17-08:00"
+        }
+    ]
+}
